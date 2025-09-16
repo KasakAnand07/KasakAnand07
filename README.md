@@ -5,6 +5,8 @@
 📫 How to reach me: Kasakanand07@gmail.com
 😄 Pronouns: She/Her
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KasakAnand07)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---
 KasakAnand07/KasakAnand07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
