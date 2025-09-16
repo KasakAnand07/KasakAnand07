@@ -1,6 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm KASAK ANAND
+# 🎓 I'm currently pursuing MCA at Presidency University, Bengaluru
+# 💻 A passionate Full Stack Developer using the MERN Stack
+# 🌐 I love crafting real-world applications using modern web technologies
+# 🚀 Always curious to explore and build scalable systems
 
 ---
 
